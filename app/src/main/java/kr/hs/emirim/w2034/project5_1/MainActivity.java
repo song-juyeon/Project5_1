@@ -40,5 +40,5 @@ public class MainActivity extends AppCompatActivity {
         public void onClick(View v) {
             Toast.makeText(getApplicationContext(), "코드로 생성된 버튼이에요", Toast.LENGTH_LONG).show();
         }
-    }
+    };
 }
